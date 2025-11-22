@@ -1,5 +1,3 @@
-
- 
 <!doctype html>
 <html lang="en">
 <head>
@@ -206,12 +204,10 @@
 
         <div class="card">
           <div class="section-title"><div class="dot"></div><h2>Connect</h2></div>
-          <a href="e-mail:67092318@up.ac.th">Email</a>
+          <a href="mailto:example@email.com">Email</a>
         </div>
       </aside>
     </main>
   </div>
 </body>
 </html>
-
-   
